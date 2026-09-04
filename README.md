@@ -56,7 +56,7 @@ Figure -02 HALF Subtractor
 
 Developed by: Syed Najmuddin 
 
-RegisterNumber:*/212225040456
+RegisterNumber: 212225040456
 
 **RTL Schematic**
 
